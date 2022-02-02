@@ -1,0 +1,27 @@
+{
+  "name": "@u-dev/dg-middleware",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devenkhatri/dg-middleware.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devenkhatri/dg-middleware/issues"
+  },
+  "homepage": "https://github.com/devenkhatri/dg-middleware#readme",
+  "dependencies": {
+    "gatsby": "^4.6.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
