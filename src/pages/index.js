@@ -1,2 +1,2 @@
-const Index = () => {}
+const Index = () => {return(null);}
 export default Index;

@@ -1,7 +1,7 @@
 {
-  "name": "@u-dev/dg-middleware",
+  "name": "dg-middleware",
   "version": "1.0.0",
-  "description": "",
+  "description": "Common Middleware of various projects of DG",
   "scripts": {
     "develop": "gatsby develop",
     "start": "gatsby develop",
