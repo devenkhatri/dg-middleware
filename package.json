@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Common Middleware of various projects of DG",
   "scripts": {
-    "develop": "gatsby develop",
-    "start": "gatsby develop",
-    "build": "gatsby build",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/devenkhatri/dg-middleware#readme",
   "dependencies": {
-    "gatsby": "^4.6.1",
+    "next": "^12.1.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   }
