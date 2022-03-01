@@ -20,7 +20,10 @@
   },
   "homepage": "https://github.com/devenkhatri/dg-middleware#readme",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "lodash": "^4.17.21",
     "next": "^12.1.0",
+    "node-fetch": "^2.6.7",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   }
