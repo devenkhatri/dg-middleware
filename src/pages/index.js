@@ -1,2 +1,4 @@
-const Index = () => {return(null);}
+const Index = () => {
+    return <div>Hello World!!</div>
+}
 export default Index;
