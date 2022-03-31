@@ -1,5 +1,5 @@
 const { fetchRepositories, getURL } = require('./utils/fetchdata');
-const { success, error } = require('./utils/response');
+const { success, error } = require('../utils/response');
 
 export default async function handler(req, res) {  
   res.setHeader('Access-Control-Allow-Origin', '*');

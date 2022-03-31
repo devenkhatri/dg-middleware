@@ -1,5 +1,5 @@
 const { fetchDevelopers } = require('./utils/fetchdata');
-const { success, error } = require('./utils/response');
+const { success, error } = require('../utils/response');
 
 exports.handler = async ({ queryStringParameters: params }) => {
   try {
