@@ -43,3 +43,9 @@
 ```
 /api/github-trending/spoken_languages - Returns an array of spoken languages
 ```
+
+## Randomizer APIs
+### Show Random Joke
+```
+/api/random/joke - Returns a random joke
+```
