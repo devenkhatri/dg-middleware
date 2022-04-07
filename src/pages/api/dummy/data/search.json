@@ -1,5 +1,5 @@
-{
-  "search": {
+
+  {
     "took": 41,
     "timed_out": false,
     "_shards": {
@@ -211,4 +211,3 @@
       ]
     }
   }
-}
