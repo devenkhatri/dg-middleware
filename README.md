@@ -10,6 +10,11 @@
 /api/domaincheck - Check whether the given domain is available
 ```
 
+## Get Rupees in Words
+```
+/api/rupeesInWords?n=<<amount>> - Get the supplied rupee amount in words
+```
+
 ## Github Unofficial Trending API
 ### Trending Repositories
 ```
