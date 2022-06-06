@@ -54,3 +54,13 @@
 ```
 /api/random/joke - Returns a random joke
 ```
+
+### Show Random Youtube Video
+```
+/api/random/youtube - Returns a random youtube video
+```
+
+https://newsapi.org/s/india-news-api
+https://github.com/Sachinart/Indian-Recipe-API
+https://www.themealdb.com/api/json/v1/1/random.php
+http://yake.inesctec.pt/apidocs/#/
